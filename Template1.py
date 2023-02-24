@@ -93,8 +93,7 @@ with st.container(): #Contact details skill experience education certification
                         try:
                             works_roles = experience.split(":-")[1]
                             location_roles = works_roles.split(" : ")[0]
-                            st.write(":round_pushpin: " + location_roles.split(",")[0])
-                            st.write(":weight_lifter: " + location_roles.split(",")[1])
+                            st.info(":round_pushpin: " + location_roles.split(",")[0] + "   :weight_lifter: " + location_roles.split(",")[1])
                             works = works_roles.split(" : ")[1]
                             for work in works.split(","):
                                 st.write(":diamond_shape_with_a_dot_inside: " + work)
@@ -126,8 +125,7 @@ with st.container(): #Contact details skill experience education certification
                         try:
                             works = project.split(":-")[1]
                             location_org_name = works.split(" : ")[0]
-                            st.write(":round_pushpin: " + location_org_name.split(",")[0])
-                            st.write(":office: " + location_org_name.split(",")[1])
+                            st.info(":round_pushpin: " + location_org_name.split(",")[0] + "   :office: " + location_org_name.split(",")[1])
                             for work in works.split(" : ")[1].split(","):
                                 st.write(":diamond_shape_with_a_dot_inside: " + work)
                                 if("[video]" in work):
