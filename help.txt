@@ -1,0 +1,49 @@
+please follow the process to update field in resume----
+please write only in the 3rd bracket part don't keep 3rd brcket once entering your content
+
+About yourself
+-----------------
+[About yourself]
+
+Profile
+--------
+[Your Name]
+[your profile photo url] //make sure your photo is available in internet it can be done if you have uploaded your photo in linked in or some other websites
+
+Contacts
+----------
+:telephone_receiver: - [Your phone number]
+:house: - [your address]
+:e-mail: - [your mail id]
+:link: - [Your external link] //you can remove this to remove external links
+
+Certificates
+--------------
+[skill1][:star: :star: :star: :star: :star: ]:-[certifying company1]-[link1],[certifying company2]-[link2]
+[skill2]:-[certifying company1]-[link1],[certifying company2]-[link2]
+[skill3]:- //leave this blank you don't have any certificates
+
+Languages
+---------
+:white_check_mark: [Language1]:-[certifying company1]-[link1],[certifying company2]-[link2]
+:white_check_mark: [Language2]:-[certifying company1]-[link1],[certifying company2]-[link2]
+:white_check_mark: [Language3]:- //leave this blank you don't have any certificates
+
+Education
+------------
+[School1]:-[Stream1]-[marks1]
+[School2]:-[Stream2]-[marks2]
+[School3]:-[Stream3]-[marks3]
+
+Projects
+--------
+[Time_period] [project_name1]:-[Organisation name1] : [work1],[work2]
+[Time_period] [project_name2]:-[Organisation name2] : [work1],[work2]
+[Time_period] [project_name3]:-[Organisation name3] : [work1],[work2](https://www.google.com)
+
+Experience
+-------------
+[Time_period] [Company1]:-[work1],[work2]
+[Time_period] [Company2]:-[work1],[work2]
+[Time_period] [Company3]:-[work1],[work2](https://www.google.com) //Enter your responsive button as bracket and the in 1st bracket enter the link it will be highlited
+

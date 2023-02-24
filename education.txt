@@ -1,0 +1,3 @@
+[Time_period] [Board]:-[School]-[adress]-[Stream1]-[marks1]
+[Time period] [Board]:-[school]-[adress]-[Stream2]-[marks2]
+[Time period] [Board]:-[school]-[adress]-[Stream3]-[marks3]

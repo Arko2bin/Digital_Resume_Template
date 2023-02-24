@@ -1,0 +1,3 @@
+[Language1][:star: :star: :star: :star: :star: ]:-[certifying company1]<>[link1],[certifying company2]<>[link2]
+[Language2]:-[certifying company1]<>[link1],[certifying company2]<>[link2]
+[Language3]:- //leave this blank you don't have any certificates

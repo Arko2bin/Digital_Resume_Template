@@ -1,0 +1,4 @@
+:iphone: <> [Your phone number]
+:house: <> [your address]
+:e-mail: <> [your mail id]
+:link: <> [Your external link]

@@ -1,0 +1,4 @@
+div[data-testid="stExpander"] div[role="button"] p {
+    font-size: 1.2rem;
+    font-family: Didot;
+}

@@ -1,0 +1,3 @@
+[Language1]:-:white_check_mark: [READ] :white_check_mark: [WRITE] :white_check_mark: [SPEAK] : [certifying company1]<>[link1],[certifying company2]<>[link2]
+[Language2]:-:white_check_mark: [READ] : [certifying company1]<>[link1],[certifying company2]<>[link2]
+[Language3]:-:white_check_mark: [READ] :  //leave this blank you don't have any certificates
